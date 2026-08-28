@@ -14,7 +14,6 @@ npm run dev
 
 Esto levanta el proyecto con Vite en `http://localhost:5174`.
 
-(Alternativa si se prefiere build de producción: `npm run build` y luego `npm run preview`.)
 
 ## Rutas implementadas
 
